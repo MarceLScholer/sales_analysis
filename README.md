@@ -30,3 +30,7 @@ This project analyzes sales performance across three dimensions:
 - Bar chart: Sales by Region
 - Bar chart: Sales by Product
 - Horizontal bar chart: Sales by Sales Rep
+
+## Dashboard Preview
+
+![Sales Report](Sales_Report.png)
